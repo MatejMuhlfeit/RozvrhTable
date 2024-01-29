@@ -1,3 +1,7 @@
-#red{
-    color: red;
+td, th{
+    padding: 1em;
+    border: 2px solid black;
+}
+table{
+    border-collapse: collapse;
 }
